@@ -38,7 +38,7 @@
     "@actions/io": "^1.0.2",
     "fast-xml-parser": "^5.3.6",
     "json5": "^2.2.3",
-    "semver": "^7.6.0"
+    "semver": "^7.7.4"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
